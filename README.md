@@ -1,6 +1,6 @@
-[![License](https://poser.pugx.org/aggrego/messanger-command-consumer/license.svg)](https://packagist.org/packages/aggrego/messanger-command-consumer)
-[![Latest Stable Version](https://poser.pugx.org/aggrego/messanger-command-consumer/v/stable.svg)](https://packagist.org/packages/aggrego/messanger-command-consumer)
-[![Total Downloads](https://poser.pugx.org/aggrego/messanger-command-consumer/downloads.svg)](https://packagist.org/packages/aggrego/messanger-command-consumer)
+[![License](https://poser.pugx.org/aggrego/messenger-command-consumer/license.svg)](https://packagist.org/packages/aggrego/messenger-command-consumer)
+[![Latest Stable Version](https://poser.pugx.org/aggrego/messenger-command-consumer/v/stable.svg)](https://packagist.org/packages/aggrego/messenger-command-consumer)
+[![Total Downloads](https://poser.pugx.org/aggrego/messenger-command-consumer/downloads.svg)](https://packagist.org/packages/aggrego/messenger-command-consumer)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/aggrego/MessengerCommandConsumer/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/aggrego/MessengerCommandConsumer/?branch=master)
 [![Travis](https://travis-ci.org/Aggrego/MessengerCommandConsumer.svg?branch=master)](https://travis-ci.org/Aggrego/MessengerCommandConsumer/builds)
 

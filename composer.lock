@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7e02a9f13334798b91a351c6a402cfd3",
+    "content-hash": "f99cd857b117ea4f5aabb211992be7cb",
     "packages": [
         {
             "name": "aggrego/command-consumer",
@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Aggrego/CommandConsumer.git",
-                "reference": "e5232e5a5f300aba98c3ac63dd5d636acc368f77"
+                "reference": "9ed4375832927e5ad43482b978a699429eae3638"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Aggrego/CommandConsumer/zipball/e5232e5a5f300aba98c3ac63dd5d636acc368f77",
-                "reference": "e5232e5a5f300aba98c3ac63dd5d636acc368f77",
+                "url": "https://api.github.com/repos/Aggrego/CommandConsumer/zipball/9ed4375832927e5ad43482b978a699429eae3638",
+                "reference": "9ed4375832927e5ad43482b978a699429eae3638",
                 "shasum": ""
             },
             "require": {
@@ -46,7 +46,7 @@
                     "name": "Tomasz Kunicki"
                 }
             ],
-            "time": "2019-01-09T22:06:48+00:00"
+            "time": "2019-01-12T21:05:24+00:00"
         },
         {
             "name": "beberlei/assert",
@@ -837,12 +837,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/nikic/PHP-Parser.git",
-                "reference": "ba092652fe4abdb02863db6345ce0867839c20c9"
+                "reference": "594bcae1fc0bccd3993d2f0d61a018e26ac2865a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/ba092652fe4abdb02863db6345ce0867839c20c9",
-                "reference": "ba092652fe4abdb02863db6345ce0867839c20c9",
+                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/594bcae1fc0bccd3993d2f0d61a018e26ac2865a",
+                "reference": "594bcae1fc0bccd3993d2f0d61a018e26ac2865a",
                 "shasum": ""
             },
             "require": {
@@ -880,7 +880,7 @@
                 "parser",
                 "php"
             ],
-            "time": "2019-01-09T20:50:03+00:00"
+            "time": "2019-01-12T16:31:37+00:00"
         },
         {
             "name": "ocramius/package-versions",
