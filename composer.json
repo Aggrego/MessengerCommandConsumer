@@ -1,5 +1,5 @@
 {
-  "name": "aggrego/messanger-command-consumer",
+  "name": "aggrego/messenger-command-consumer",
   "type": "library",
   "description": "",
   "minimum-stability": "dev",
