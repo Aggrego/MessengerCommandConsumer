@@ -1,0 +1,29 @@
+{
+  "name": "aggrego/messanger-command-consumer",
+  "type": "library",
+  "description": "",
+  "minimum-stability": "dev",
+  "license": "BSD-3-Clause",
+  "keywords": [],
+  "authors": [
+    {
+      "name": "Tomasz Kunicki"
+    }
+  ],
+  "require": {
+    "php": ">=7.1",
+    "aggrego/command-consumer": "dev-master",
+    "symfony/messenger": "^4.2"
+  },
+  "require-dev": {
+    "wikimedia/composer-merge-plugin": "1.4.*",
+    "phpspec/phpspec": "^5.0",
+    "squizlabs/php_codesniffer": "3.*",
+    "phpstan/phpstan": "^0.10"
+  },
+  "autoload": {
+    "psr-4": {
+      "Aggrego\\MessengerCommandConsumer\\": "src/"
+    }
+  }
+}
