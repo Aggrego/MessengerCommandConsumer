@@ -6,7 +6,7 @@
 
 # MessengerCommandConsumer
 
-Available to process `Command`'s with `Response` via [Symfony Messenger](https://github.com/symfony/messenger).
+Available to process `Command`'s via [Symfony Messenger](https://github.com/symfony/messenger).
 
 ## Versioning
  
