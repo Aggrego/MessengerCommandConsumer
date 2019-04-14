@@ -2,7 +2,6 @@
   "name": "aggrego/messenger-command-consumer",
   "type": "library",
   "description": "",
-  "minimum-stability": "dev",
   "license": "BSD-3-Clause",
   "keywords": [],
   "authors": [
@@ -12,7 +11,7 @@
   ],
   "require": {
     "php": ">=7.1",
-    "aggrego/command-consumer": "dev-master",
+    "aggrego/command-consumer": "^0",
     "symfony/messenger": "^4.2"
   },
   "require-dev": {
